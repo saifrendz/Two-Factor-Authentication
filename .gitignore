@@ -1,0 +1,14 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# External Library
+External Library/
+
+# IDE-related
+Scratches and Cosoles/
+
+# Miscellaneous
+.DS_Store
